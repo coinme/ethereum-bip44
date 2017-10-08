@@ -2,7 +2,7 @@
     "name": "ethereum-bip44",
     "version": "2.2.0",
     "description": "bip 44 hierarchical deterministic address generation for ethereum",
-    "main": "src/index.js",
+    "main": "es5/index.js",
     "author": "Timon Rapp <timon@zaeda.net>",
     "repository": {
         "type": "git",
